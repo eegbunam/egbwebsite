@@ -1,0 +1,31 @@
+body {
+  background-color: Beige;
+  padding-left: 100px;
+}
+hr {
+  background-color:  Beige;
+
+  border-style: dotted none none;
+  border-width: 10px;
+  border-color: grey;
+
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+ color: #696969;
+}
+h2{
+ color: #696969;
+}
+
+h3{
+ color: #696969;
+}
+h4{
+ color: #696969;
+}
