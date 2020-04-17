@@ -1,0 +1,25 @@
+  body{
+    margin: 0;
+  }
+h1{
+  margin-top: 0;
+}
+
+/* div{
+  margin-top: 0;
+ background-color:  blue;
+} */
+
+.top-container{
+  margin-top: 0;
+  background-color: red;
+
+}
+
+.middle-container{
+
+}
+
+.last-container{
+
+}
